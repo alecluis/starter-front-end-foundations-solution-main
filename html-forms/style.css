@@ -1,0 +1,10 @@
+body {
+  padding: 20px;
+  text-align: left;
+}
+
+input {
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
